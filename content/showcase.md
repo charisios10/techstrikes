@@ -4,6 +4,10 @@ date: "2019-01-18"
 author: "Lorem Ipsum"
 ---
 
+# Note
+
+Here you can test if everything is working for you... + Everything is open source and you can find the repository here : https://github.com/charisios10/techstrike
+
 ## Header 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. **Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
@@ -41,20 +45,22 @@ pre {
 ```js
 // JS code
 
-const menuTrigger = document.querySelector('.menu-trigger')
-const menu = document.querySelector('.menu')
-const mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')
-const isMobile = () => window.matchMedia(mobileQuery).matches
+const menuTrigger = document.querySelector(".menu-trigger");
+const menu = document.querySelector(".menu");
+const mobileQuery = getComputedStyle(document.body).getPropertyValue(
+  "--phoneWidth"
+);
+const isMobile = () => window.matchMedia(mobileQuery).matches;
 const isMobileMenu = () => {
-  menuTrigger.classList.toggle('hidden', !isMobile())
-  menu.classList.toggle('hidden', isMobile())
-}
+  menuTrigger.classList.toggle("hidden", !isMobile());
+  menu.classList.toggle("hidden", isMobile());
+};
 
-isMobileMenu()
+isMobileMenu();
 
-menuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))
+menuTrigger.addEventListener("click", () => menu.classList.toggle("hidden"));
 
-window.addEventListener('resize', isMobileMenu)
+window.addEventListener("resize", isMobileMenu);
 ```
 
 ```html
@@ -62,10 +68,8 @@ window.addEventListener('resize', isMobileMenu)
 
 <section id="main">
   <div>
-   <h1 id="title">{{ .Title }}</h1>
-    {{ range .Pages }}
-      {{ .Render "summary"}}
-    {{ end }}
+    <h1 id="title">{{ .Title }}</h1>
+    {{ range .Pages }} {{ .Render "summary"}} {{ end }}
   </div>
 </section>
 ```
