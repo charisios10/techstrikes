@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechStrike</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on TechStrike</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Charisios Charisiadis | 2024 Apache License</copyright>
+    <lastBuildDate>Thu, 21 Mar 2024 19:27:39 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Technology Effects Education</title>
+      <link>/posts/how-tech-effects-education/how-tech-effects-education/</link>
+      <pubDate>Thu, 21 Mar 2024 19:27:39 +0200</pubDate>
+      
+      <guid>/posts/how-tech-effects-education/how-tech-effects-education/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Technology is getting bigger and bigger but how much does it effect us, and more seriesly how much does education gets effected by technology?
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/posts/welcome/</link>
+      <pubDate>Sun, 03 Mar 2024 13:58:06 +0200</pubDate>
+      
+      <guid>/posts/welcome/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          A simple introduction to the website!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>/showcase/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/showcase/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Header 2#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Welcome to TechStrike a website all about technology based new&amp;rsquo;s and tutorial&amp;rsquo;s!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
