@@ -8,4 +8,6 @@ draft = true
 
 ## Introduction
 
-As we all know technology is developing to the best wich we have gone to the point to implement it to education. But is technology helpfull towards the kids or it is bad? Can technology
+As we all know technology is developing to the best wich we have gone to the point to implement it to education. But is technology helpfull towards the kids or it is bad? Can technology destroy the school enviroment? All those questions will be anwsered plus so much more in the up coming chapters.
+
+[comment]: <> (shhh this is a easter egg! be ready for more upcoming posts)
