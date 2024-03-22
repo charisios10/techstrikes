@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on TechStrike</title>
+    <title>Posts on TechStrikes</title>
     
     
     
     <link>/posts/</link>
-    <description>Recent content in Posts on TechStrike</description>
+    <description>Recent content in Posts on TechStrikes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Charisios Charisiadis | 2024 Apache License</copyright>
@@ -14,6 +14,26 @@
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Technology Effects Education</title>
+      <link>/posts/how-tech-effects-education/how-tech-effects-education/</link>
+      <pubDate>Thu, 21 Mar 2024 19:27:39 +0200</pubDate>
+      
+      <guid>/posts/how-tech-effects-education/how-tech-effects-education/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Technology is getting bigger and bigger but how much does it effect us, and more seriesly how much does education gets effected by technology?
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Welcome</title>
