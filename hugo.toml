@@ -30,7 +30,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "TechStrike"
+    title = "TechStrikes"
     subtitle = "A blog all about technology"
     keywords = "Tech"
     copyright = "Charisios Charisiadis | 2024 Apache License"
@@ -47,7 +47,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "TechStrike"
+      logoText = "TechStrikes"
       logoHomeLink = "/"
     # or
     #
