@@ -6,6 +6,8 @@ author = "Charisios Charisiadis"
 draft = true
 +++
 
+Warning this article is not done and that means that you accessed it without permision! Leave Now.
+
 ## Introduction
 
 As we all know technology is developing to the best wich we have gone to the point to implement it to education. But is technology helpfull towards the kids or it is bad? Can technology destroy the school enviroment? All those questions will be anwsered plus so much more in the up coming chapters.
