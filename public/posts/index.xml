@@ -10,17 +10,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Charisios Charisiadis | 2024 Apache License</copyright>
-    <lastBuildDate>Thu, 21 Mar 2024 19:27:39 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 11:59:32 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>How Technology Effects Education</title>
-      <link>/posts/how-tech-effects-education/how-tech-effects-education/</link>
-      <pubDate>Thu, 21 Mar 2024 19:27:39 +0200</pubDate>
+      <title>Github: The Open Source Solution</title>
+      <link>/posts/github-the-open-source-solution/github-the-open-source-solution/</link>
+      <pubDate>Fri, 03 May 2024 11:59:32 +0000</pubDate>
       
-      <guid>/posts/how-tech-effects-education/how-tech-effects-education/</guid>
+      <guid>/posts/github-the-open-source-solution/github-the-open-source-solution/</guid>
       <description>
         
           
@@ -29,7 +29,7 @@
         
         
         
-          Technology is getting bigger and bigger but how much does it effect us, and more seriesly how much does education gets effected by technology?
+          Why is everyone making their projects open source on github? Thats a question that we are going to discuss!
           
         
         </description>
